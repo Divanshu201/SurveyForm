@@ -4,7 +4,7 @@
     margin: 0;
 }
 body{
-    background-image: url();
+    background-image:url('images/bg.jpg');
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -13,7 +13,8 @@ form{
     color: #fff;
     width: 60%;
     margin: 30px auto;
-    background-color: rgba(0,0,0,0.7);
+    /* background-color: rgba(0,0,0,0.7); */
+    background-color: #3e4653;;
     border-radius: 8px;
 
 }
