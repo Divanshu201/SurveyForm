@@ -160,3 +160,17 @@ section .contentBg .form .sm li
     justify-content: center;
     padding: 0px 30px;
 }
+#sign
+{
+    background-image: linear-gradient(225deg,#f18dae,#79c9ee);
+    outline: none;
+    border: none;
+    font-weight:bolder;
+    cursor: pointer;
+    text-decoration: none;
+    /* margin: 0px 125px; */
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 5px 140px;
+    color: black;
+}
